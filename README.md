@@ -9,3 +9,6 @@ C programming from 0! I am using Raspberry pi 4B with Raspbi OS (no desktop) wit
 first.c - program to print "Hello World"
 
 second.c - multiplies two variables a =6 and b=5 and assignes it to c. Prints out : a x b = c
+
+simple_calculator.c - asks to enter an operand and two numbers for your chosen operation. Prints the result depending on the chosen operation
+
