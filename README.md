@@ -7,4 +7,5 @@ C programming from 0! I am using Raspberry pi 4B with Raspbi OS (no desktop) wit
 * To run your object file : ./first
 
 first.c - program to print "Hello World"
+
 second.c - multiplies two variables a =6 and b=5 and assignes it to c. Prints out : a x b = c
