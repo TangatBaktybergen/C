@@ -12,3 +12,8 @@ second.c - multiplies two variables a =6 and b=5 and assignes it to c. Prints ou
 
 simple_calculator.c - asks to enter an operand and two numbers for your chosen operation. Prints the result depending on the chosen operation
 
+pyramid_ast.c - asks for a number of rows and prints a pyramid from * 
+
+trig_ratios.c - Enter an angle in degrees and get trigonometrical ratios as a result
+
+
